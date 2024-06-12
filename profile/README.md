@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 
-![TechX Header](header-image.png)
+![TechX Header](techx.jpeg)
 
 # TechX
 
