@@ -4,17 +4,18 @@
 
 # TechX
 
-### Open source, full-stack web3 development platform.
+### Repos for TechX Platform
 
 |                                            | Stack    | Repository                                            | Features                                                                                                    |
 |--------------------------------------------|----------|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------|
 | ![R](https://skillicons.dev/icons?i=react) | Frontend | [Website](https://github.com/techxclub/techx-website) | Main community website for TechX, includes all UI components and more                                       |
+| ![R](https://skillicons.dev/icons?i=react) | Frontend | [Website](https://github.com/techxclub/admin-ui)      | Admin Website for user management                                                                           |
 | ![R](https://skillicons.dev/icons?i=go)    | Backend  | [Portal](https://github.com/techxclub/portal)         | Collection of REST API for managing user profiles, requesting referrals, scheduling mentor appointment etc. |
 
 
 ## Resources
 
-- [Portal](https://techxclub.in)
+- [Portal](https://thetechxclub.com)
 - [LinkedIn](https://www.linkedin.com/company/techxcommunity)
 - [YouTube](https://www.youtube.com/@TheTechXClub)
 
